@@ -3,7 +3,7 @@
 Welcome to my page! I am a front-end software engineer who specialises in web technologies, agile ways of working and mentoring. DevOps related practices excite me, specifically CI/CD pipelines.
 
 > [!NOTE]
-> **Writing good code takes time, writing bad code takes even more time.**
+> 📌 **Writing good code takes time, writing bad code takes even more time.**
 
 ### Tech that I use
 
@@ -29,6 +29,7 @@ Welcome to my page! I am a front-end software engineer who specialises in web te
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
