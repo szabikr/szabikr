@@ -5,8 +5,6 @@ Welcome to my page! I am a front-end software engineer who specialises in web te
 > [!NOTE]
 > **Writing good code takes time, writing bad code takes even more time.**
 
----
-
 ### Tech that I use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -38,6 +36,8 @@ Welcome to my page! I am a front-end software engineer who specialises in web te
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ### Repository Stats
 
