@@ -44,8 +44,6 @@ Welcome to my page! I am a **front-end software engineer** who specialises in we
 
 ![Too Languages](https://github-readme-stats-eight-tan-49.vercel.app/api/top-langs/?username=szabikr&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=bolyai-club)
 
-![Top Languages](https://github-readme-stats-szabikr.vercel.app/api/top-langs/?username=szabikr&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=bolyai-club)
-
 ### Codewars
 
 ![Codewars Badge](https://www.codewars.com/users/szabikr/badges/large)
